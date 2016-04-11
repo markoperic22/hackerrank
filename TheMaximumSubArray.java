@@ -6,9 +6,9 @@ import java.util.regex.*;
 
 public class TheMaximumSubArray {
    /**
-	 * Main metoda koja čita input i za svaki array poziva metodu calculate(arr)
-     *
-	 */
+    * Main metoda koja čita input i za svaki array poziva metodu calculate(arr)
+    *
+    */
    public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
